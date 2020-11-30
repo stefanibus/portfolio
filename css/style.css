@@ -1,0 +1,28 @@
+
+	/* Stefano I want to learn more about 62,5% later  */
+html { 
+    font-size: 62.5%; 
+    /* for now I will use 16px */
+    font-size: 16px; 
+}
+
+
+/*  reset CSS similar to  meyerweb */
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: initial;
+}
+ 
+body {
+	margin:  0;
+}
+ 
+img {
+	max-width: 22vw;
+	margin: 1em;
+	display: block;
+} 
